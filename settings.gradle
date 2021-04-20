@@ -1,0 +1,3 @@
+include ':libraryEventBus'
+include ':app'
+rootProject.name = "DemoEventBus"
